@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: webflux
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/webflux
+server:
+  port: 3333
